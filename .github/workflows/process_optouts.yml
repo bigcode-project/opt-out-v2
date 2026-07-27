@@ -1,0 +1,19 @@
+name: Process Opt-Out Issues
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max issues to process (0 = all)"
+        default: "10"
+        type: string
+      dry_run:
+        description: "Dry run — log actions but don't mutate"
+        default: true
+        type: boolean
+
+jobs:
+  stub:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "test" && exit 1
