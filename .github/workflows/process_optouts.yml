@@ -1,0 +1,42 @@
+# Process opt-out issues: apply labels, post replies, and close.
+# The data/ directory must contain the synced JSONL files (via sync_to_repo.py).
+
+name: Process Opt-Out Issues
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max issues to process (0 = all)"
+        required: false
+        default: "10"
+        type: string
+      dry_run:
+        description: "Dry run — log actions but don't mutate"
+        required: false
+        default: true
+        type: boolean
+
+permissions:
+  issues: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Process opt-out issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/process_issues.py \
+            --data-dir data \
+            --limit ${{ inputs.limit }} \
+            ${{ inputs.dry_run == true && '--dry-run' || '' }}
