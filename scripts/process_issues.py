@@ -424,25 +424,16 @@ def main():
         print("Error: GITHUB_TOKEN not set")
         sys.exit(1)
 
-    auto = {
+    all_optouts = {
         r["issue"]: r
-        for r in read_jsonl(args.data_dir / "auto_optouts.jsonl")
-    }
-    manual = {
-        r["issue"]: r
-        for r in read_jsonl(args.data_dir / "manual_optouts.jsonl")
+        for r in read_jsonl(args.data_dir / "optouts.jsonl")
     }
     tags = {
         r["issue"]: r["tag"]
         for r in read_jsonl(args.data_dir / "issue_tags.jsonl")
     }
 
-    all_optouts = {**auto, **manual}
-
-    print(
-        f"Loaded: {len(auto)} auto + {len(manual)} manual"
-        f" = {len(all_optouts)} optouts, {len(tags)} tags"
-    )
+    print(f"Loaded: {len(all_optouts)} optouts, {len(tags)} tags")
     if args.dry_run:
         print("DRY RUN MODE — no mutations will be made\n")
 
