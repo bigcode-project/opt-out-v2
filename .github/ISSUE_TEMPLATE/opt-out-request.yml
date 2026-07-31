@@ -1,0 +1,73 @@
+name: Opt-out request
+description: Remove your code from The Stack dataset
+title: "Opt-out request"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Filing from your own GitHub account is how we confirm it's yours - usually
+        no separate proof needed.
+
+        Use **[Am I in The Stack](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack)**
+        to generate a pre-filled request. Fill in **at least one** of the two boxes
+        below; we'll comment and close the issue once it's processed.
+
+  - type: textarea
+    id: remove_accounts
+    attributes:
+      label: Accounts and organizations to remove ENTIRELY
+      description: >
+        One GitHub username or organization per line. Every current and future
+        repository under each is removed. List as many as you need - personal
+        accounts, previous usernames, and orgs can all go here.
+      placeholder: |
+        my-username
+        my-old-username
+        my-org
+
+  - type: textarea
+    id: remove_repos
+    attributes:
+      label: Specific repositories to remove
+      description: >
+        One repository per line as owner/repo. ONLY these are removed - anything
+        else under that owner stays in the dataset. Use this for partial opt-outs.
+      placeholder: |
+        my-username/one-repo
+        some-org/another-repo
+
+  - type: checkboxes
+    id: authority
+    attributes:
+      label: Optional - your relationship to what you listed
+      description: >
+        Tick anything that applies. This is only to help us process faster;
+        skip it if none fit or you'd rather not say. We'll follow up if we ever
+        need to check something.
+      options:
+        - label: These are my own personal account(s).
+        - label: I am an owner or admin of the organization(s) listed.
+        - label: I am a maintainer / core contributor of the projects listed.
+
+  - type: input
+    id: proof
+    attributes:
+      label: Optional - a link that helps confirm this is you/yours
+      description: >
+        e.g. an org members page, a MAINTAINERS file, or a profile. Totally
+        optional - don't worry if there isn't a public one; we can follow up.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else? (optional)
+      description: >
+        Free text for context - e.g. a previous request that wasn't honored,
+        a parsing mistake to correct, or special circumstances.
+
+  - type: markdown
+    attributes:
+      value: >
+        Only what you listed above will be removed. Thank you! We'll process your
+        request and comment on this issue when it's done.

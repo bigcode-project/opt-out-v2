@@ -1,11 +1,26 @@
-![](https://huggingface.co/spaces/lvwerra/in-the-stack-gr/resolve/main/banner.png)
-
 # Opt-out process for The Stack
 
-You can opt-out your repositories from [The Stack dataset](https://huggingface.co/datasets/bigcode/the-stack) by creating an issue in this repository and listing the repositories you would like to exclude. This will exclude those repositories in the next iteration of The Stack. You can check if any of your repositories are in The Stack with the [Am I in the Stack app](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack). 
+You can opt out your code from [The Stack dataset](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)
+by opening an issue in this repository. Opting out excludes your code from the
+next iteration of The Stack and from current and future model training.
 
-By creating an issue we can verify that you are the owner of the repositories requested for opt-out. Once your opt-out request has been processed we'll comment on the issue and close it.
+The easiest way is the **[Am I in The Stack](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack)**
+app: enter your GitHub username (or an organization name), see what's in the
+dataset, pick what to remove, and it generates a pre-filled opt-out issue for you.
 
-**Link to opt-out issue:** [click here](https://github.com/bigcode-project/opt-out-v2/issues/new?assignees=&labels=&template=opt-out-request.md&title=Opt-out+request+for+USERNAME).
+**Link to opt-out issue:** [click here](https://github.com/bigcode-project/opt-out-v2/issues/new?template=opt-out-request.yml&title=Opt-out+request).
 
-For more information checkout the [BigCode website](https://www.bigcode-project.org/docs/about/the-stack/#how-can-i-request-that-my-data-be-removed-from-the-stack).
+## What you can request
+
+The opt-out form has two lists — fill in **at least one**:
+
+- **Accounts and organizations to remove entirely** — one GitHub username or
+  organization per line. Everything under each, now and in the future, is removed.
+  List as many as you like (personal accounts, previous usernames, and orgs).
+- **Specific repositories to remove** — one `owner/repo` per line. Only those are
+  removed; everything else under that owner stays in the dataset. Use this for a
+  partial opt-out.
+
+Telling us your relationship to what you listed (owner, maintainer, contributor)
+and adding a proof link are **optional** — if there's no easy public way to show
+you control an account, that's fine; we'll follow up if we need to check.
