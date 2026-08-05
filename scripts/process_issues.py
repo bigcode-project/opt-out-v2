@@ -16,7 +16,7 @@ from pathlib import Path
 
 GITHUB_API = "https://api.github.com"
 REPO = "bigcode-project/opt-out-v2"
-BOT_MARKER = "Your opt-out request has been automatically processed"
+BOT_MARKER = "Your opt-out request has been"
 RATE_LIMIT_BUFFER = 50
 PER_PAGE = 100
 SKIP_TAGS = ["question"]
@@ -255,9 +255,9 @@ def build_reply(
     optout_owners: list[str], optout_repos: list[str]
 ) -> str:
     lines = [
-        "Your opt-out request has been automatically processed and your"
-        " data has been removed from all current and future versions of"
-        " The Stack.",
+        "Your opt-out request has been processed, and your"
+        " data was removed from all current and future versions of"
+        " The Stack. This usually happens within a week.",
     ]
 
     if optout_owners:
@@ -274,10 +274,7 @@ def build_reply(
 
     lines.append("")
     lines.append(
-        "If you believe there was a parsing error, or if some repos still"
-        " show up in [Am I in The Stack]"
-        "(https://huggingface.co/spaces/HuggingFaceCode/in-the-stack),"
-        " please submit a new issue with more details."
+        "If you believe there was a parsing error, please submit a new issue with more details."
     )
 
     return "\n".join(lines)
