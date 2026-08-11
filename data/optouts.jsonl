@@ -6404,8 +6404,10 @@
 {"issue": 6438, "author": "mlen", "optout_repos": [], "optout_owners": ["mlen"]}
 {"issue": 6439, "author": "thp", "optout_repos": [], "optout_owners": ["thp"]}
 {"issue": 6440, "author": "loup-brun", "optout_repos": [], "optout_owners": ["loup-brun"]}
+{"issue": 6441, "author": "thp", "optout_repos": ["gpodder/gpodder-android", "gpodder/gpodder-api-http", "gpodder/gpodder-bb10", "gpodder/gpodder-osx-bundle", "gpodder/gpodder-plugins-extra", "gpodder/gpodder-sailfish", "gpodder/gpodder-ui-qml", "gpodder/gpodder-windows", "gpodder/gpodder.github.io", "gpodder/mygpo-ops", "gpodder/podcast-feed-best-practice", "gpodder/podcastparser", "gpodder/ppa-scripts"], "optout_owners": []}
 {"issue": 6442, "author": "DasLixou", "optout_repos": [], "optout_owners": ["DasLixou"]}
 {"issue": 6443, "author": "seija-amanojaku", "optout_repos": [], "optout_owners": ["seija-amanojaku"]}
+{"issue": 6444, "author": "thp", "optout_repos": ["harmattan/apkenv-wrapper-generator", "harmattan/billboard-i18n", "harmattan/billboard-scripts", "harmattan/emojifix", "harmattan/reset-root-password", "harmattan/serverr"], "optout_owners": []}
 {"issue": 6445, "author": "maxsite", "optout_repos": [], "optout_owners": ["maxsite"]}
 {"issue": 6446, "author": "chutten", "optout_repos": [], "optout_owners": ["chutten"]}
 {"issue": 6447, "author": "sixohsix", "optout_repos": [], "optout_owners": ["sixohsix"]}
@@ -6470,7 +6472,10 @@
 {"issue": 6507, "author": "colingourlay", "optout_repos": [], "optout_owners": ["colingourlay"]}
 {"issue": 6508, "author": "betpowo", "optout_repos": [], "optout_owners": ["betpowo"]}
 {"issue": 6509, "author": "mr-c", "optout_repos": [], "optout_owners": ["mr-c"]}
+{"issue": 6510, "author": "mr-c", "optout_repos": [], "optout_owners": ["common-workflow-language"]}
+{"issue": 6511, "author": "mr-c", "optout_repos": [], "optout_owners": ["common-workflow-lab"]}
 {"issue": 6512, "author": "JarrodDoyle", "optout_repos": [], "optout_owners": ["JarrodDoyle"]}
+{"issue": 6513, "author": "mr-c", "optout_repos": [], "optout_owners": ["common-workflow-library"]}
 {"issue": 6514, "author": "tdrayson", "optout_repos": [], "optout_owners": ["tdrayson"]}
 {"issue": 6515, "author": "fredg02", "optout_repos": [], "optout_owners": ["fredg02"]}
 {"issue": 6516, "author": "cheeseplus", "optout_repos": [], "optout_owners": ["cheeseplus"]}
@@ -6520,6 +6525,7 @@
 {"issue": 6566, "author": "ShibiTCT", "optout_repos": [], "optout_owners": ["ShibiTCT"]}
 {"issue": 6567, "author": "MotUika", "optout_repos": [], "optout_owners": ["MotUika"]}
 {"issue": 6568, "author": "sdaubert", "optout_repos": [], "optout_owners": ["sdaubert"]}
+{"issue": 6569, "author": "Pentarctagon", "optout_repos": ["Wesnoth/constitution", "Wesnoth/haldric", "Wesnoth/jessene", "Wesnoth/resources", "Wesnoth/steam-meta", "Wesnoth/valen", "Wesnoth/website", "Wesnoth/wesmere", "Wesnoth/wesnoth-multiplayer-data-dashboard"], "optout_owners": []}
 {"issue": 6570, "author": "tangowithfoxtrot", "optout_repos": [], "optout_owners": ["tangowithfoxtrot"]}
 {"issue": 6571, "author": "willfurnass", "optout_repos": [], "optout_owners": ["willfurnass"]}
 {"issue": 6572, "author": "meejah", "optout_repos": [], "optout_owners": ["meejah"]}
@@ -6533,7 +6539,6 @@
 {"issue": 6580, "author": "jonkerj", "optout_repos": [], "optout_owners": ["jonkerj"]}
 {"issue": 6581, "author": "razveck", "optout_repos": [], "optout_owners": ["razveck"]}
 {"issue": 6582, "author": "maxlath", "optout_repos": [], "optout_owners": ["maxlath"]}
-{"issue": 6583, "author": "maxlath", "optout_repos": [], "optout_owners": ["the"]}
 {"issue": 6584, "author": "smarnach", "optout_repos": [], "optout_owners": ["smarnach"]}
 {"issue": 6585, "author": "KooShnoo", "optout_repos": [], "optout_owners": ["KooShnoo"]}
 {"issue": 6586, "author": "lucaswerkmeister", "optout_repos": [], "optout_owners": ["lucaswerkmeister"]}
@@ -6563,12 +6568,14 @@
 {"issue": 6610, "author": "xibrox", "optout_repos": [], "optout_owners": ["xibrox"]}
 {"issue": 6611, "author": "ear7h", "optout_repos": [], "optout_owners": ["ear7h"]}
 {"issue": 6612, "author": "0xced", "optout_repos": [], "optout_owners": ["0xced"]}
+{"issue": 6613, "author": "bronsen", "optout_repos": [], "optout_owners": ["infuanfu"]}
 {"issue": 6614, "author": "lennarteingunia", "optout_repos": [], "optout_owners": ["lennarteing"]}
 {"issue": 6615, "author": "lennarteingunia", "optout_repos": [], "optout_owners": ["lennarteingunia"]}
 {"issue": 6616, "author": "jonstvns", "optout_repos": [], "optout_owners": ["jonstvns"]}
 {"issue": 6617, "author": "SL477", "optout_repos": [], "optout_owners": ["Sl477"]}
 {"issue": 6618, "author": "JoeyEremondi", "optout_repos": [], "optout_owners": ["JoeyEremondi"]}
 {"issue": 6619, "author": "MincraftEinstein", "optout_repos": [], "optout_owners": ["MincraftEinstein"]}
+{"issue": 6620, "author": "cleverca22", "optout_repos": [], "optout_owners": ["cleverca22", "librerpi"]}
 {"issue": 6621, "author": "minhphan03", "optout_repos": [], "optout_owners": ["minhphan03"]}
 {"issue": 6622, "author": "SteveRohrlack", "optout_repos": [], "optout_owners": ["SteveRohrlack"]}
 {"issue": 6623, "author": "Chiaracat", "optout_repos": [], "optout_owners": ["chiaracat"]}
@@ -6600,6 +6607,7 @@
 {"issue": 6649, "author": "FinleyRowles", "optout_repos": [], "optout_owners": ["finleyrowles"]}
 {"issue": 6650, "author": "ryanflach", "optout_repos": [], "optout_owners": ["ryanflach"]}
 {"issue": 6651, "author": "brad1111", "optout_repos": [], "optout_owners": ["brad1111"]}
+{"issue": 6652, "author": "mid-kid", "optout_repos": [], "optout_owners": ["REONTeam"]}
 {"issue": 6653, "author": "blryface", "optout_repos": [], "optout_owners": ["blryface", "Pridecraft-Studios", "acaitrash", "techteno", "custardmc", "crss666", "LoopProject", "usevital"]}
 {"issue": 6654, "author": "floesche", "optout_repos": [], "optout_owners": ["floesche"]}
 {"issue": 6655, "author": "Thinkseal", "optout_repos": [], "optout_owners": ["Warding"]}
@@ -6650,6 +6658,7 @@
 {"issue": 6701, "author": "bbailleux", "optout_repos": [], "optout_owners": ["bbailleux"]}
 {"issue": 6702, "author": "draptik", "optout_repos": [], "optout_owners": ["draptik"]}
 {"issue": 6703, "author": "tissieres", "optout_repos": [], "optout_owners": ["tissieres"]}
+{"issue": 6704, "author": "piedoom", "optout_repos": [], "optout_owners": ["resamplr"]}
 {"issue": 6706, "author": "JohannesIBK", "optout_repos": [], "optout_owners": ["JohannesIBK"]}
 {"issue": 6707, "author": "nyorain", "optout_repos": [], "optout_owners": ["nyorain"]}
 {"issue": 6708, "author": "janagrill", "optout_repos": [], "optout_owners": ["Janagrill"]}
@@ -6727,6 +6736,8 @@
 {"issue": 6783, "author": "WinnerWind", "optout_repos": [], "optout_owners": ["WinnerWind"]}
 {"issue": 6784, "author": "christian-nils", "optout_repos": [], "optout_owners": ["christian-nils"]}
 {"issue": 6785, "author": "dalefukami", "optout_repos": [], "optout_owners": ["dalefukami"]}
+{"issue": 6786, "author": "ethteck", "optout_repos": [], "optout_owners": ["decompme"]}
+{"issue": 6787, "author": "ethteck", "optout_repos": [], "optout_owners": ["decompals"]}
 {"issue": 6788, "author": "Charlottez112", "optout_repos": [], "optout_owners": ["charlottez112"]}
 {"issue": 6789, "author": "Lethosos", "optout_repos": [], "optout_owners": ["Lethosos"]}
 {"issue": 6790, "author": "ifd3f", "optout_repos": [], "optout_owners": ["ifd3f"]}
@@ -6804,6 +6815,7 @@
 {"issue": 6862, "author": "onaisali4952", "optout_repos": [], "optout_owners": ["onaisali4952"]}
 {"issue": 6863, "author": "NicolasToussaint", "optout_repos": [], "optout_owners": ["nicoolas"]}
 {"issue": 6864, "author": "nicoolas", "optout_repos": ["nicoolas/linux-home-conf", "nicoolas/mattermost-bot", "nicoolas/nicoolas", "nicoolas/nicoolas.github.io"], "optout_owners": []}
+{"issue": 6865, "author": "ashishpuliyel", "optout_repos": [], "optout_owners": ["guardian"]}
 {"issue": 6866, "author": "HeroN8", "optout_repos": [], "optout_owners": ["HeroN8"]}
 {"issue": 6867, "author": "lordkekz", "optout_repos": [], "optout_owners": ["lordkekz"]}
 {"issue": 6868, "author": "Aurora-Bee", "optout_repos": [], "optout_owners": ["Aurora-Bee"]}
@@ -6814,11 +6826,13 @@
 {"issue": 6873, "author": "lmsonic", "optout_repos": [], "optout_owners": ["lmsonic"]}
 {"issue": 6874, "author": "bradparker", "optout_repos": [], "optout_owners": ["bradparker"]}
 {"issue": 6875, "author": "runjak", "optout_repos": [], "optout_owners": ["runjak"]}
+{"issue": 6876, "author": "tautropfli", "optout_repos": [], "optout_owners": ["bash", "myelin-ai", "timetabio", "mockiato", "isitvegan", "bash-archive"]}
 {"issue": 6877, "author": "XXVIMilia", "optout_repos": [], "optout_owners": ["XXVIMilia"]}
 {"issue": 6878, "author": "brianpham258", "optout_repos": [], "optout_owners": ["brianpham258"]}
 {"issue": 6879, "author": "bryh311", "optout_repos": [], "optout_owners": ["bryh311"]}
 {"issue": 6880, "author": "Danish-Ahmed24", "optout_repos": [], "optout_owners": ["danish-ahmed24"]}
 {"issue": 6881, "author": "jojos38", "optout_repos": [], "optout_owners": ["jojos38"]}
+{"issue": 6882, "author": "bbailleux", "optout_repos": [], "optout_owners": ["Orange-OpenSource"]}
 {"issue": 6883, "author": "ci42", "optout_repos": [], "optout_owners": ["ci42"]}
 {"issue": 6884, "author": "deved9", "optout_repos": [], "optout_owners": ["deved9"]}
 {"issue": 6885, "author": "AnyTimeTraveler", "optout_repos": [], "optout_owners": ["AnyTimeTraveler"]}
@@ -6855,6 +6869,7 @@
 {"issue": 6917, "author": "aspargas2", "optout_repos": [], "optout_owners": ["aspargas2"]}
 {"issue": 6918, "author": "SmellyModder", "optout_repos": [], "optout_owners": ["team-abnormals"]}
 {"issue": 6919, "author": "boite", "optout_repos": [], "optout_owners": ["boite"]}
+{"issue": 6920, "author": "hexratcc", "optout_repos": [], "optout_owners": ["goubermouche"]}
 {"issue": 6921, "author": "blasdo", "optout_repos": [], "optout_owners": ["blasdo"]}
 {"issue": 6922, "author": "nubbsterr", "optout_repos": [], "optout_owners": ["nubbsterr"]}
 {"issue": 6923, "author": "Jaklyy", "optout_repos": [], "optout_owners": ["jaklyy"]}
@@ -6904,6 +6919,7 @@
 {"issue": 6968, "author": "chaoticgd", "optout_repos": [], "optout_owners": ["chaoticgd"]}
 {"issue": 6969, "author": "lightningterror", "optout_repos": [], "optout_owners": ["lightningterror"]}
 {"issue": 6970, "author": "xTVaser", "optout_repos": [], "optout_owners": ["xTVaser"]}
+{"issue": 6971, "author": "xTVaser", "optout_repos": [], "optout_owners": ["open-goal"]}
 {"issue": 6972, "author": "flixcoo", "optout_repos": [], "optout_owners": ["flixcoo"]}
 {"issue": 6973, "author": "janxious", "optout_repos": [], "optout_owners": ["janxious"]}
 {"issue": 6974, "author": "Nexushunter", "optout_repos": [], "optout_owners": ["Nexushunter"]}
@@ -6925,12 +6941,14 @@
 {"issue": 6990, "author": "SamuelRiversMoore", "optout_repos": [], "optout_owners": ["SamuelRiversMoore"]}
 {"issue": 6991, "author": "Kozelek", "optout_repos": [], "optout_owners": ["Kozelek"]}
 {"issue": 6992, "author": "Bloxs", "optout_repos": [], "optout_owners": ["blocksnmore"]}
+{"issue": 6993, "author": "Bloxs", "optout_repos": [], "optout_owners": ["wave-studio"]}
 {"issue": 6994, "author": "Bloxs", "optout_repos": [], "optout_owners": ["studios-dev"]}
 {"issue": 6995, "author": "emmaisadev", "optout_repos": [], "optout_owners": ["emmaisadev"]}
 {"issue": 6996, "author": "Alfonso-publicStaticVoidMain", "optout_repos": ["Alfonso-publicStaticVoidMain/Chess", "Alfonso-publicStaticVoidMain/Java-Math-Utilities", "Alfonso-publicStaticVoidMain/MasterMind", "Alfonso-publicStaticVoidMain/PythonLinearProgramming", "Alfonso-publicStaticVoidMain/SpringTaskManager"], "optout_owners": []}
 {"issue": 6997, "author": "wannkunstbeikor", "optout_repos": [], "optout_owners": ["wannkunstbeikor"]}
 {"issue": 6998, "author": "skifli", "optout_repos": [], "optout_owners": ["skifli"]}
 {"issue": 6999, "author": "skifli", "optout_repos": [], "optout_owners": ["warp-racing"]}
+{"issue": 7000, "author": "skifli", "optout_repos": [], "optout_owners": ["exeme-project"]}
 {"issue": 7001, "author": "kompetenzbolzen", "optout_repos": [], "optout_owners": ["kompetenzbolzen"]}
 {"issue": 7002, "author": "AndrewTrieu", "optout_repos": [], "optout_owners": ["AndrewTrieu"]}
 {"issue": 7003, "author": "andreapanontin", "optout_repos": [], "optout_owners": ["andreapanontin"]}
@@ -6938,19 +6956,23 @@
 {"issue": 7005, "author": "carburo", "optout_repos": [], "optout_owners": ["carburo"]}
 {"issue": 7006, "author": "PixelDud", "optout_repos": [], "optout_owners": ["PixelDud"]}
 {"issue": 7008, "author": "jbmorley", "optout_repos": [], "optout_owners": ["jbmorley"]}
+{"issue": 7009, "author": "jbmorley", "optout_owners": ["inseven"], "optout_repos": []}
 {"issue": 7010, "author": "gigirassy", "optout_repos": [], "optout_owners": ["gigirassy"]}
 {"issue": 7011, "author": "lolarobins", "optout_repos": [], "optout_owners": ["lolarobins"]}
 {"issue": 7012, "author": "h4rldev", "optout_repos": [], "optout_owners": ["h4rldev"]}
 {"issue": 7013, "author": "sandybeachum", "optout_repos": [], "optout_owners": ["sandybeachum"]}
 {"issue": 7014, "author": "carnivorecookies", "optout_repos": [], "optout_owners": ["carnivorecookies"]}
+{"issue": 7015, "author": "electron271", "optout_repos": [], "optout_owners": ["electron271", "MagmaWM", "GrainWare"]}
 {"issue": 7016, "author": "comma-tose", "optout_repos": [], "optout_owners": ["comma-tose"]}
 {"issue": 7017, "author": "PX8916", "optout_repos": [], "optout_owners": ["PX8916"]}
 {"issue": 7018, "author": "CodeF53", "optout_repos": [], "optout_owners": ["CodeF53"]}
 {"issue": 7019, "author": "ThisUser-Bot", "optout_repos": [], "optout_owners": ["ThisUser-Bot"]}
+{"issue": 7020, "author": "SomeAspy", "optout_repos": [], "optout_owners": ["legcord", "someaspy", "wolfplugs", "futuredeveloperz", "statifyproject", "DataExorcist"]}
 {"issue": 7021, "author": "keircn", "optout_repos": [], "optout_owners": ["keircn"]}
 {"issue": 7022, "author": "refractionpcsx2", "optout_repos": [], "optout_owners": ["refractionpcsxx2"]}
 {"issue": 7023, "author": "miteigidesu", "optout_repos": [], "optout_owners": ["miteigidesu"]}
 {"issue": 7024, "author": "cebamps", "optout_repos": [], "optout_owners": ["cebamps"]}
+{"issue": 7025, "author": "fckyough", "optout_owners": ["fckyough", "hianick"], "optout_repos": []}
 {"issue": 7026, "author": "mitjmcc", "optout_repos": [], "optout_owners": ["Mitjmcc"]}
 {"issue": 7027, "author": "jmaties", "optout_repos": [], "optout_owners": ["jmaties"]}
 {"issue": 7028, "author": "gaelj", "optout_repos": [], "optout_owners": ["gaelj"]}
@@ -6961,14 +6983,17 @@
 {"issue": 7033, "author": "Squawkykaka", "optout_repos": [], "optout_owners": ["squawkykaka"]}
 {"issue": 7034, "author": "SkyePrism", "optout_repos": [], "optout_owners": ["SkyePrism"]}
 {"issue": 7035, "author": "playlogo", "optout_repos": [], "optout_owners": ["playlogo"]}
+{"issue": 7036, "author": "nrabulinski", "optout_repos": [], "optout_owners": ["hs3city", "kalmarunionenctf"]}
 {"issue": 7037, "author": "mini-bomba", "optout_repos": [], "optout_owners": ["mini-bomba"]}
 {"issue": 7038, "author": "Kellegram", "optout_repos": [], "optout_owners": ["Kellegram"]}
+{"issue": 7039, "author": "PartlyAwesome", "optout_owners": ["partlyawesome", "ShrekBoards"], "optout_repos": []}
 {"issue": 7040, "author": "melusc", "optout_repos": [], "optout_owners": ["melusc"]}
 {"issue": 7041, "author": "robinpdev", "optout_repos": [], "optout_owners": ["robinpdev"]}
 {"issue": 7042, "author": "JetpackJackson", "optout_repos": [], "optout_owners": ["JetpackJackson"]}
 {"issue": 7043, "author": "NathanCorral", "optout_repos": [], "optout_owners": ["NathanCorral"]}
 {"issue": 7044, "author": "Uhter", "optout_repos": [], "optout_owners": ["Uhter"]}
 {"issue": 7045, "author": "octoshrimpy", "optout_repos": [], "optout_owners": ["octoshrimpy"]}
+{"issue": 7046, "author": "AlexanderHD27", "optout_owners": ["AlexanderHD27"], "optout_repos": []}
 {"issue": 7047, "author": "killermoehre", "optout_repos": [], "optout_owners": ["Killermoehre"]}
 {"issue": 7048, "author": "dis-da-mor", "optout_repos": [], "optout_owners": ["dis-da-mor"]}
 {"issue": 7049, "author": "tribut", "optout_repos": [], "optout_owners": ["tribut"]}
@@ -6979,6 +7004,7 @@
 {"issue": 7054, "author": "vmovupd", "optout_repos": [], "optout_owners": ["vmovupd"]}
 {"issue": 7055, "author": "OrvarLog", "optout_repos": [], "optout_owners": ["orvarlog"]}
 {"issue": 7056, "author": "dmcardle", "optout_repos": [], "optout_owners": ["dmcardle"]}
+{"issue": 7057, "author": "drupol", "optout_owners": ["drupol", "loophp"], "optout_repos": []}
 {"issue": 7058, "author": "bckelley", "optout_repos": [], "optout_owners": ["bckelley"]}
 {"issue": 7059, "author": "hansemschnokeloch", "optout_repos": [], "optout_owners": ["hansemschnokeloch"]}
 {"issue": 7060, "author": "MymeType", "optout_repos": [], "optout_owners": ["MymeType"]}
@@ -6986,19 +7012,28 @@
 {"issue": 7062, "author": "Falkimore", "optout_repos": [], "optout_owners": ["falkimore"]}
 {"issue": 7063, "author": "RiQuY", "optout_repos": [], "optout_owners": ["RiQuY"]}
 {"issue": 7064, "author": "NotAShelf", "optout_repos": [], "optout_owners": ["notashelf"]}
+{"issue": 7065, "author": "AstroSquared", "optout_owners": ["AstroSquared", "BedCrabDev", "BlazingGames"], "optout_repos": []}
 {"issue": 7066, "author": "thebookcheese", "optout_repos": [], "optout_owners": ["thebookcheese"]}
+{"issue": 7067, "author": "nataliemeow", "optout_owners": ["nataliemeow", "natroute"], "optout_repos": []}
 {"issue": 7068, "author": "Zycient", "optout_repos": [], "optout_owners": ["Zycient"]}
+{"issue": 7069, "author": "medsal15", "optout_owners": ["medsal15"], "optout_repos": []}
 {"issue": 7070, "author": "DerpyNinjaFrog", "optout_repos": [], "optout_owners": ["derpyninjafrog"]}
 {"issue": 7071, "author": "inthescales", "optout_repos": [], "optout_owners": ["inthescales"]}
+{"issue": 7072, "author": "kernc", "optout_owners": ["kernc", "CoderDojoSI", "pdoc3", "efck-chat-keyboard", "sambo-optimization", "sandbox-utils"], "optout_repos": []}
 {"issue": 7073, "author": "mohsunb", "optout_repos": [], "optout_owners": ["mohsunb"]}
 {"issue": 7074, "author": "guemax", "optout_repos": [], "optout_owners": ["guemax"]}
 {"issue": 7075, "author": "ShachaParker", "optout_repos": [], "optout_owners": ["shackuottawa"]}
 {"issue": 7076, "author": "Gibletron", "optout_repos": [], "optout_owners": ["Gibletron"]}
 {"issue": 7077, "author": "AstronomyOverdrive", "optout_repos": [], "optout_owners": ["astronomyoverdrive"]}
 {"issue": 7078, "author": "jebeyer", "optout_repos": [], "optout_owners": ["jebeyer"]}
+{"issue": 7079, "author": "beatrixzy", "optout_owners": ["beatrixzy"], "optout_repos": []}
 {"issue": 7080, "author": "caffineehacker", "optout_repos": [], "optout_owners": ["Caffineehacker"]}
 {"issue": 7081, "author": "TimWolla", "optout_repos": [], "optout_owners": ["TimWolla"]}
+{"issue": 7082, "author": "TimWolla", "optout_owners": ["wbbaddons"], "optout_repos": []}
+{"issue": 7083, "author": "zebbson", "optout_owners": ["zebbson"], "optout_repos": []}
 {"issue": 7084, "author": "AdrianBecker", "optout_repos": [], "optout_owners": ["adrianbecker"]}
+{"issue": 7085, "author": "sleepycat", "optout_owners": ["sleepycat"], "optout_repos": []}
+{"issue": 7086, "author": "reidlabb", "optout_owners": ["reidlabwastaken", "reidlabb"], "optout_repos": []}
 {"issue": 7087, "author": "redxef", "optout_repos": [], "optout_owners": ["redxef"]}
 {"issue": 7088, "author": "MarkusThielker", "optout_repos": [], "optout_owners": ["markusthielker"]}
 {"issue": 7089, "author": "kieroid", "optout_repos": [], "optout_owners": ["kieroid"]}
@@ -7010,12 +7045,15 @@
 {"issue": 7095, "author": "sleiper", "optout_repos": [], "optout_owners": ["Sleiper"]}
 {"issue": 7096, "author": "d-bucur", "optout_repos": [], "optout_owners": ["d-bucur"]}
 {"issue": 7097, "author": "nnorm", "optout_repos": [], "optout_owners": ["nnorm"]}
+{"issue": 7098, "author": "droans", "optout_repos": [], "optout_owners": ["droans"]}
 {"issue": 7099, "author": "droans", "optout_repos": [], "optout_owners": ["droans"]}
 {"issue": 7101, "author": "charonn0", "optout_repos": [], "optout_owners": ["charonn0"]}
+{"issue": 7102, "author": "amadaluzia", "optout_owners": ["amadaluzia", "prongless-forks", "lobotomyservices"], "optout_repos": []}
 {"issue": 7103, "author": "cannadayr", "optout_repos": [], "optout_owners": ["cannadayr"]}
 {"issue": 7104, "author": "Seralpa", "optout_repos": [], "optout_owners": ["seralpa"]}
 {"issue": 7105, "author": "c-y-p-e", "optout_repos": [], "optout_owners": ["c-y-p-e"]}
 {"issue": 7106, "author": "friosrhy", "optout_repos": [], "optout_owners": ["FrIoSrHy"]}
+{"issue": 7107, "author": "michael-fadely", "optout_owners": ["michael-fadely", "sonicfreak94"], "optout_repos": []}
 {"issue": 7108, "author": "ldidry", "optout_repos": [], "optout_owners": ["ldidry"]}
 {"issue": 7109, "author": "soborg", "optout_repos": [], "optout_owners": ["soborg"]}
 {"issue": 7110, "author": "quixotic120", "optout_repos": [], "optout_owners": ["Quixotic120"]}
@@ -7031,6 +7069,7 @@
 {"issue": 7120, "author": "jopejoe1", "optout_repos": [], "optout_owners": ["jopejoe1"]}
 {"issue": 7121, "author": "enoperm", "optout_repos": [], "optout_owners": ["enoperm"]}
 {"issue": 7122, "author": "PiterWeb", "optout_repos": [], "optout_owners": ["PiterWeb"]}
+{"issue": 7123, "author": "lucagoslar", "optout_owners": ["lucagoslar", "zugriffcloud"], "optout_repos": []}
 {"issue": 7124, "author": "hugo-pH", "optout_repos": [], "optout_owners": ["Hugo-pH"]}
 {"issue": 7125, "author": "VerbenaIDK", "optout_repos": [], "optout_owners": ["VerbenaIDK"]}
 {"issue": 7126, "author": "OzuYatamutsu", "optout_repos": [], "optout_owners": ["OzuYatamutsu"]}
@@ -7042,9 +7081,13 @@
 {"issue": 7132, "author": "SharktasticA", "optout_repos": [], "optout_owners": ["SharktasticA"]}
 {"issue": 7133, "author": "corumj", "optout_repos": [], "optout_owners": ["Corumj"]}
 {"issue": 7134, "author": "counter185", "optout_repos": [], "optout_owners": ["counter185"]}
+{"issue": 7135, "author": "jelleejamm", "optout_owners": ["andrewidot", "jelleejamm"], "optout_repos": []}
+{"issue": 7136, "author": "MagicRB", "optout_repos": ["nix-community/NixNG", "numtide/disko-zfs", "numtide/rolling-datasets"], "optout_owners": []}
 {"issue": 7137, "author": "VorpalBlade", "optout_repos": [], "optout_owners": ["VorpalBlade"]}
 {"issue": 7138, "author": "duponter", "optout_repos": [], "optout_owners": ["duponter"]}
 {"issue": 7139, "author": "Hanse00", "optout_repos": [], "optout_owners": ["Hanse00"]}
+{"issue": 7140, "author": "Coca162", "optout_owners": ["svarchive", "Vooperian-Records-Office", "Washed-Up-Gamers"], "optout_repos": []}
+{"issue": 7141, "author": "hyc", "optout_repos": [], "optout_owners": ["hyc", "openldap"]}
 {"issue": 7142, "author": "mthfrr", "optout_repos": [], "optout_owners": ["mthfrr"]}
 {"issue": 7143, "author": "khorwood", "optout_repos": [], "optout_owners": ["khorwood"]}
 {"issue": 7144, "author": "FinnTheFoxxo", "optout_repos": [], "optout_owners": ["FinnTheFoxxo"]}
@@ -7057,17 +7100,23 @@
 {"issue": 7151, "author": "AnyTimeTraveler", "optout_repos": [], "optout_owners": ["KLMUD"]}
 {"issue": 7152, "author": "AnyTimeTraveler", "optout_repos": [], "optout_owners": ["StealthGameTeam"]}
 {"issue": 7153, "author": "amar-b", "optout_repos": [], "optout_owners": ["amar-b"]}
+{"issue": 7154, "author": "mwshepherd", "optout_owners": ["mwshepherd"], "optout_repos": []}
 {"issue": 7155, "author": "hetoug", "optout_repos": [], "optout_owners": ["Hetoug"]}
 {"issue": 7156, "author": "Suchiman", "optout_repos": [], "optout_owners": ["Suchiman"]}
 {"issue": 7157, "author": "basil-squared", "optout_repos": [], "optout_owners": ["basil-squared"]}
 {"issue": 7158, "author": "ice-nuclearcrackhead239", "optout_repos": [], "optout_owners": ["ice-nuclearcrackhead239"]}
 {"issue": 7159, "author": "rockersuke", "optout_repos": [], "optout_owners": ["rockersuke"]}
+{"issue": 7160, "author": "Jdaslepre", "optout_owners": ["Jdsle", "Jdaslepre", "RSDK-Library"], "optout_repos": []}
 {"issue": 7161, "author": "megahbite", "optout_repos": [], "optout_owners": ["megahbite"]}
+{"issue": 7162, "author": "lombervid", "optout_owners": ["lombervid", "lombervid-courses", "phetit"], "optout_repos": []}
 {"issue": 7163, "author": "g2010a", "optout_repos": [], "optout_owners": ["G2010a"]}
 {"issue": 7164, "author": "hussrj", "optout_repos": [], "optout_owners": ["Hussrj"]}
+{"issue": 7165, "author": "mirabilos", "optout_repos": ["danvk/dygraphs"], "optout_owners": []}
 {"issue": 7166, "author": "theqaguy", "optout_repos": [], "optout_owners": ["theqaguy"]}
 {"issue": 7167, "author": "goeiecool9999", "optout_repos": [], "optout_owners": ["goeiecool9999"]}
 {"issue": 7168, "author": "josephlord", "optout_repos": [], "optout_owners": ["Josephlord"]}
+{"issue": 7169, "author": "notAxon", "optout_repos": [], "optout_owners": ["notAxon"]}
+{"issue": 7170, "author": "UninenVille", "optout_repos": [], "optout_owners": ["UninenVille"]}
 {"issue": 7171, "author": "rivets", "optout_repos": [], "optout_owners": ["Rivets"]}
 {"issue": 7172, "author": "arkhi", "optout_repos": [], "optout_owners": ["arkhi"]}
 {"issue": 7173, "author": "fwouts", "optout_repos": [], "optout_owners": ["fwouts"]}
@@ -7076,8 +7125,12 @@
 {"issue": 7176, "author": "graysonrie", "optout_repos": [], "optout_owners": ["graysonrie"]}
 {"issue": 7177, "author": "f3l1xa88077", "optout_repos": [], "optout_owners": ["f3l1xa88077"]}
 {"issue": 7178, "author": "chronohart", "optout_repos": [], "optout_owners": ["chronohart"]}
+{"issue": 7179, "author": "mothlight", "optout_owners": ["mothlight"], "optout_repos": []}
+{"issue": 7180, "author": "raph-h", "optout_owners": ["raph-h", "PerthAerospaceStudentTeam"], "optout_repos": []}
 {"issue": 7181, "author": "SHRIJANAGAIN", "optout_repos": [], "optout_owners": ["shrijanagain"]}
+{"issue": 7182, "author": "chelmuth", "optout_repos": [], "optout_owners": ["genodelabs"]}
 {"issue": 7183, "author": "chelmuth", "optout_repos": [], "optout_owners": ["chelmuth"]}
+{"issue": 7184, "author": "ByteOtter", "optout_owners": ["ByteOtter", "The-Nazara-Project"], "optout_repos": []}
 {"issue": 7185, "author": "FKann", "optout_repos": [], "optout_owners": ["FKann"]}
 {"issue": 7186, "author": "plaindocs", "optout_repos": [], "optout_owners": ["plaindocs"]}
 {"issue": 7187, "author": "lilioid", "optout_repos": [], "optout_owners": ["lilioid"]}
@@ -7086,8 +7139,10 @@
 {"issue": 7190, "author": "PPTide", "optout_repos": [], "optout_owners": ["PPTide"]}
 {"issue": 7194, "author": "martinvlk", "optout_repos": [], "optout_owners": ["martinvlk"]}
 {"issue": 7195, "author": "Temetra", "optout_repos": [], "optout_owners": ["Temetra"]}
+{"issue": 7196, "author": "instax-dutta", "optout_owners": ["instax-dutta"], "optout_repos": []}
 {"issue": 7197, "author": "gudenau", "optout_repos": [], "optout_owners": ["gudenau"]}
 {"issue": 7198, "author": "MathisLenormand", "optout_repos": [], "optout_owners": ["MathisLenormand"]}
+{"issue": 7199, "author": "RubixDev", "optout_owners": ["RubixDev", "rush-rs"], "optout_repos": []}
 {"issue": 7200, "author": "martyTF", "optout_repos": [], "optout_owners": ["MartyTF"]}
 {"issue": 7201, "author": "cmddog", "optout_repos": [], "optout_owners": ["cmddog"]}
 {"issue": 7202, "author": "piushartmann", "optout_repos": [], "optout_owners": ["piushartmann"]}
@@ -7099,3 +7154,208 @@
 {"issue": 7208, "author": "xcjs", "optout_repos": [], "optout_owners": ["xcjs"]}
 {"issue": 7209, "author": "guijemont", "optout_repos": [], "optout_owners": ["guijemont"]}
 {"issue": 7210, "author": "Hetti", "optout_repos": [], "optout_owners": ["Hetti"]}
+{"issue": 7211, "author": "EncryptedCicada", "optout_repos": [], "optout_owners": ["EncryptedCicada"]}
+{"issue": 7212, "author": "RajinL", "optout_owners": ["RajinL"], "optout_repos": []}
+{"issue": 7213, "author": "kylhuk", "optout_owners": ["Kylhuk"], "optout_repos": []}
+{"issue": 7214, "author": "autonomousapps", "optout_owners": ["autonomousapps"], "optout_repos": []}
+{"issue": 7215, "author": "asellitt", "optout_owners": ["asellitt"], "optout_repos": []}
+{"issue": 7216, "author": "Knuxfan24", "optout_owners": ["Knuxfan24"], "optout_repos": []}
+{"issue": 7217, "author": "amyavi", "optout_repos": [], "optout_owners": ["kaboomserver"]}
+{"issue": 7218, "author": "luc-tielen", "optout_owners": ["luc-tielen"], "optout_repos": []}
+{"issue": 7219, "author": "macbrayne", "optout_owners": ["macbrayne"], "optout_repos": []}
+{"issue": 7220, "author": "16patsle", "optout_owners": ["16patsle"], "optout_repos": []}
+{"issue": 7221, "author": "FoxyOfJungle", "optout_owners": ["foxyofjungle"], "optout_repos": []}
+{"issue": 7222, "author": "lele394", "optout_owners": ["lele394"], "optout_repos": []}
+{"issue": 7223, "author": "adomixaszvers", "optout_owners": ["adomixaszvers"], "optout_repos": []}
+{"issue": 7224, "author": "CLOVIS-AI", "optout_owners": ["clovis-ai"], "optout_repos": []}
+{"issue": 7225, "author": "rslawson", "optout_repos": [], "optout_owners": ["AuroransSolis"]}
+{"issue": 7226, "author": "Limeth", "optout_owners": ["Limeth", "fairypieces", "metaview-org", "recursive-record-registry"], "optout_repos": []}
+{"issue": 7227, "author": "hydrolarus", "optout_owners": ["hydrolarus"], "optout_repos": []}
+{"issue": 7228, "author": "coffeebrick", "optout_owners": ["coffeebrick"], "optout_repos": []}
+{"issue": 7229, "author": "ulucs", "optout_owners": ["ulucs"], "optout_repos": []}
+{"issue": 7230, "author": "josuigoa", "optout_owners": ["josuigoa"], "optout_repos": []}
+{"issue": 7231, "author": "josuigoa", "optout_owners": ["ideckia"], "optout_repos": []}
+{"issue": 7232, "author": "JCog", "optout_owners": ["jcog"], "optout_repos": []}
+{"issue": 7233, "author": "VasilisThePikachu", "optout_owners": ["VasilisThePikachu"], "optout_repos": []}
+{"issue": 7234, "author": "wooferzfg", "optout_owners": ["wooferzfg"], "optout_repos": []}
+{"issue": 7235, "author": "DMP96", "optout_owners": [], "optout_repos": ["DMP96/DMP96.github.io", "DMP96/Notepad-S", "DMP96/Pong-X"]}
+{"issue": 7236, "author": "irisfalke", "optout_owners": ["hf-ikea"], "optout_repos": []}
+{"issue": 7237, "author": "modsbydreamCritting", "optout_owners": ["modsbydreamCritting"], "optout_repos": []}
+{"issue": 7238, "author": "tobiazsh", "optout_owners": ["tobiazsh"], "optout_repos": []}
+{"issue": 7239, "author": "laithnurie", "optout_repos": [], "optout_owners": ["laithnurie"]}
+{"issue": 7240, "author": "thacuber2a03", "optout_owners": ["thacuber2a03"], "optout_repos": []}
+{"issue": 7241, "author": "Lyroth001", "optout_owners": ["Lyroth001"], "optout_repos": []}
+{"issue": 7242, "author": "doodletaco", "optout_owners": ["doodletaco"], "optout_repos": []}
+{"issue": 7243, "author": "LeetLeaf", "optout_owners": ["Leetleaf"], "optout_repos": []}
+{"issue": 7244, "author": "iaada", "optout_owners": ["iaada"], "optout_repos": []}
+{"issue": 7245, "author": "xanderio", "optout_owners": ["xanderio"], "optout_repos": []}
+{"issue": 7246, "author": "kaicillin", "optout_owners": ["Kaicillin"], "optout_repos": []}
+{"issue": 7247, "author": "Secre-C", "optout_repos": [], "optout_owners": ["Secre-C"]}
+{"issue": 7248, "author": "ethancedwards8", "optout_repos": ["dracula/tmux"], "optout_owners": ["ethancedwards8"]}
+{"issue": 7249, "author": "pinballprimer", "optout_owners": ["pinballprimer"], "optout_repos": []}
+{"issue": 7250, "author": "Xemorr", "optout_owners": ["Xemorr"], "optout_repos": []}
+{"issue": 7251, "author": "ptomato", "optout_repos": [], "optout_owners": ["ptomato"]}
+{"issue": 7252, "author": "TimeglitchD", "optout_owners": ["timeglitchd"], "optout_repos": []}
+{"issue": 7253, "author": "JKBSunshine", "optout_owners": ["jkbsunshine"], "optout_repos": []}
+{"issue": 7254, "author": "rowanthorpe", "optout_owners": ["rowanthorpe"], "optout_repos": []}
+{"issue": 7255, "author": "dancojocaru2000", "optout_owners": ["dancojocaru2000"], "optout_repos": []}
+{"issue": 7256, "author": "Squididly", "optout_owners": ["Squididly"], "optout_repos": []}
+{"issue": 7257, "author": "JesusMtnez", "optout_owners": ["JesusMtnez"], "optout_repos": []}
+{"issue": 7258, "author": "steven11sjf", "optout_owners": ["steven11sjf"], "optout_repos": []}
+{"issue": 7259, "author": "citrusella", "optout_owners": ["citrusella"], "optout_repos": []}
+{"issue": 7260, "author": "ArcanoxDragon", "optout_owners": ["ArcanoxDragon"], "optout_repos": []}
+{"issue": 7261, "author": "RayNheartZ", "optout_owners": ["RayNheartZ"], "optout_repos": []}
+{"issue": 7262, "author": "goth-uhaul", "optout_owners": ["goth-uhaul"], "optout_repos": []}
+{"issue": 7263, "author": "ShuP1", "optout_owners": ["shup1"], "optout_repos": []}
+{"issue": 7264, "author": "mhouppin", "optout_owners": ["mhouppin"], "optout_repos": []}
+{"issue": 7265, "author": "PepeSegura", "optout_repos": [], "optout_owners": ["PepeSegura"]}
+{"issue": 7266, "author": "maxlath", "optout_repos": [], "optout_owners": ["inventaire"]}
+{"issue": 7267, "author": "Tahirc1", "optout_owners": ["Tahirc1"], "optout_repos": []}
+{"issue": 7268, "author": "Urhengulas", "optout_owners": ["urhengulas"], "optout_repos": []}
+{"issue": 7269, "author": "heavyimage", "optout_owners": ["heavyimage"], "optout_repos": []}
+{"issue": 7270, "author": "Sv443", "optout_owners": ["Sv443", "Sv443-Network", "the-drunken-cod", "codedrunks", "Jabrils-Discord-Server"], "optout_repos": []}
+{"issue": 7271, "author": "CommentatorForAll", "optout_owners": ["CommentatorForAll", "IIoW"], "optout_repos": []}
+{"issue": 7272, "author": "BarryCarlyon", "optout_owners": ["barrycarlyon"], "optout_repos": []}
+{"issue": 7273, "author": "GStefanowich", "optout_owners": ["gstefanowich"], "optout_repos": []}
+{"issue": 7274, "author": "Number6174", "optout_owners": ["number6174"], "optout_repos": []}
+{"issue": 7275, "author": "wtmitchell", "optout_owners": ["wtmitchell"], "optout_repos": []}
+{"issue": 7276, "author": "chris-sophos", "optout_owners": ["Manju-Confederation", "that-guy977"], "optout_repos": []}
+{"issue": 7277, "author": "drjarno", "optout_owners": ["drjarno"], "optout_repos": []}
+{"issue": 7278, "author": "drjarno", "optout_owners": ["uOttawa-IT-Research-teaching"], "optout_repos": []}
+{"issue": 7279, "author": "Durss", "optout_owners": ["durss"], "optout_repos": []}
+{"issue": 7280, "author": "xurei", "optout_owners": ["xurei"], "optout_repos": []}
+{"issue": 7281, "author": "TheLastRar", "optout_owners": ["TheLastRar"], "optout_repos": []}
+{"issue": 7282, "author": "Avabin", "optout_owners": ["Avabin"], "optout_repos": []}
+{"issue": 7283, "author": "niven", "optout_owners": ["niven"], "optout_repos": []}
+{"issue": 7284, "author": "elduvelle", "optout_owners": ["neuroesc"], "optout_repos": []}
+{"issue": 7285, "author": "harsmarvania57", "optout_owners": ["harsmarvania57"], "optout_repos": []}
+{"issue": 7286, "author": "KevinJones", "optout_owners": ["KevinJones"], "optout_repos": []}
+{"issue": 7287, "author": "NixFey", "optout_owners": ["nixfey"], "optout_repos": []}
+{"issue": 7288, "author": "raylu", "optout_owners": ["raylu", "8Banana", "CppChatDev", "LearnProgramming", "strinking", "valdera-inc"], "optout_repos": []}
+{"issue": 7289, "author": "Kippye", "optout_owners": ["Kippye"], "optout_repos": []}
+{"issue": 7290, "author": "SuperCuber", "optout_owners": ["SuperCuber"], "optout_repos": []}
+{"issue": 7291, "author": "PoryGone", "optout_owners": ["PoryGone"], "optout_repos": []}
+{"issue": 7292, "author": "PoryGone", "optout_owners": ["PoryGoneDev"], "optout_repos": []}
+{"issue": 7293, "author": "theballaam96", "optout_owners": ["theballaam96"], "optout_repos": []}
+{"issue": 7294, "author": "IllusionaryOne", "optout_owners": ["IllusionaryOne"], "optout_repos": []}
+{"issue": 7295, "author": "Killklli", "optout_owners": ["killklli"], "optout_repos": []}
+{"issue": 7296, "author": "AbsenceGameDev", "optout_owners": ["AbsenceGameDev"], "optout_repos": []}
+{"issue": 7297, "author": "SpectralPlatypus", "optout_owners": ["SpectralPlatypus"], "optout_repos": []}
+{"issue": 7298, "author": "spiritov", "optout_owners": ["spiritov"], "optout_repos": []}
+{"issue": 7299, "author": "dresswithpockets", "optout_owners": ["dresswithpockets", "dresseswithpockets", "escrow-tf", "balancetf", "openstats-gh", "jump-stuff", "pakk", "Database-Wife"], "optout_repos": []}
+{"issue": 7300, "author": "dennisrijsdijk", "optout_owners": ["dennisrijsdijk"], "optout_repos": []}
+{"issue": 7301, "author": "stephendpmurphy", "optout_owners": ["stephendpmurphy"], "optout_repos": []}
+{"issue": 7302, "author": "stephendpmurphy", "optout_owners": ["everyday-dev"], "optout_repos": []}
+{"issue": 7303, "author": "AlmightyLks", "optout_owners": ["AlmightyLks", "AlmightyMRE", "AlmightyLks-SCP"], "optout_repos": []}
+{"issue": 7304, "author": "robstolarz", "optout_repos": [], "optout_owners": ["robstolarz", "strinking"]}
+{"issue": 7305, "author": "mswider", "optout_owners": ["mswider", "codeths"], "optout_repos": []}
+{"issue": 7306, "author": "Kim-Lan", "optout_owners": ["Kim-Lan"], "optout_repos": []}
+{"issue": 7307, "author": "wgmyers", "optout_owners": ["wgmyers"], "optout_repos": []}
+{"issue": 7308, "author": "markusmarkusz", "optout_owners": ["markusmarkusz"], "optout_repos": []}
+{"issue": 7309, "author": "StevePaget", "optout_owners": ["StevePaget"], "optout_repos": []}
+{"issue": 7310, "author": "genericjon", "optout_owners": ["genericjon"], "optout_repos": []}
+{"issue": 7311, "author": "mschrumpf", "optout_owners": ["mschrumpf"], "optout_repos": []}
+{"issue": 7312, "author": "ritefall", "optout_owners": ["ritefall"], "optout_repos": []}
+{"issue": 7313, "author": "JuliaK06", "optout_owners": ["JuliaK06"], "optout_repos": []}
+{"issue": 7314, "author": "mineralsss", "optout_owners": ["mineralsss"], "optout_repos": []}
+{"issue": 7315, "author": "sveeke", "optout_owners": ["nozel-org"], "optout_repos": []}
+{"issue": 7316, "author": "sveeke", "optout_owners": ["sveeke"], "optout_repos": []}
+{"issue": 7317, "author": "Toby222", "optout_owners": [], "optout_repos": ["spencers145/SharkGame"]}
+{"issue": 7318, "author": "iProgramMC", "optout_owners": ["iProgramMC", "iProgramInCpp", "DiscordMessenger", "NanoShellOS", "nbcraft-org", "ReMinecraftPE", "gamma64", "ReGrowtopia", "growalonegame"], "optout_repos": []}
+{"issue": 7319, "author": "alkiko", "optout_owners": ["cinemataztic"], "optout_repos": []}
+{"issue": 7320, "author": "waltermoreira", "optout_owners": ["waltermoreira"], "optout_repos": []}
+{"issue": 7321, "author": "waltermoreira", "optout_owners": ["provables"], "optout_repos": []}
+{"issue": 7322, "author": "Creative-Difficulty", "optout_owners": ["Creative-Difficulty"], "optout_repos": []}
+{"issue": 7323, "author": "gusmd", "optout_owners": ["gusmd"], "optout_repos": []}
+{"issue": 7324, "author": "ballzzpta", "optout_owners": ["Ballzzpta"], "optout_repos": []}
+{"issue": 7325, "author": "linked7", "optout_owners": ["linked7"], "optout_repos": []}
+{"issue": 7326, "author": "paulschwoerer", "optout_owners": ["Opra-tool"], "optout_repos": []}
+{"issue": 7327, "author": "paulschwoerer", "optout_owners": ["Paulschwoerer"], "optout_repos": []}
+{"issue": 7328, "author": "stallmandev1111", "optout_repos": [], "optout_owners": ["stallmandev1111"]}
+{"issue": 7329, "author": "Cortan122", "optout_owners": ["cortan122"], "optout_repos": []}
+{"issue": 7330, "author": "bstaley", "optout_owners": ["bstaley"], "optout_repos": []}
+{"issue": 7331, "author": "hlmartin", "optout_owners": ["hlmartin"], "optout_repos": []}
+{"issue": 7332, "author": "roozerxc", "optout_owners": ["RoozerXC"], "optout_repos": []}
+{"issue": 7333, "author": "JapieVanTonder", "optout_owners": ["JapieVanTonder"], "optout_repos": []}
+{"issue": 7334, "author": "sophiehenning", "optout_owners": ["sophiehenning"], "optout_repos": []}
+{"issue": 7335, "author": "RohanKarthikeyan", "optout_owners": ["RohanKarthikeyan"], "optout_repos": []}
+{"issue": 7336, "author": "shuokabe", "optout_owners": ["shuokabe"], "optout_repos": ["TUM-NLP/llms-limited-resources2025"]}
+{"issue": 7337, "author": "andybalaam", "optout_owners": ["andybalaam"], "optout_repos": []}
+{"issue": 7338, "author": "raspofabs", "optout_owners": ["raspofabs"], "optout_repos": []}
+{"issue": 7339, "author": "Aniezka", "optout_owners": ["aniezka"], "optout_repos": []}
+{"issue": 7340, "author": "Leukas", "optout_owners": [], "optout_repos": ["Leukas/CUTE", "Leukas/EXECUTE"]}
+{"issue": 7341, "author": "boogiebouncemma", "optout_owners": ["boogiebouncemma"], "optout_repos": []}
+{"issue": 7342, "author": "mariatryta", "optout_owners": ["mariatryta"], "optout_repos": []}
+{"issue": 7343, "author": "sincRK", "optout_owners": ["sincRK"], "optout_repos": []}
+{"issue": 7344, "author": "vipuldelwadia", "optout_owners": ["vipuldelwadia"], "optout_repos": []}
+{"issue": 7345, "author": "JuiceyBeans", "optout_owners": ["JuiceyBeans"], "optout_repos": []}
+{"issue": 7346, "author": "5h1b", "optout_owners": ["5h1b", "ShibaAtHome"], "optout_repos": []}
+{"issue": 7347, "author": "anuragsoni", "optout_owners": ["anuragsoni"], "optout_repos": []}
+{"issue": 7348, "author": "ajith05", "optout_owners": ["ajith05", "Fall24-SE-ASK"], "optout_repos": []}
+{"issue": 7349, "author": "mal1k-me", "optout_owners": ["mal1k-me"], "optout_repos": []}
+{"issue": 7350, "author": "itsfarseen", "optout_owners": ["itsfarseen"], "optout_repos": []}
+{"issue": 7351, "author": "itsmux", "optout_owners": ["itsmux"], "optout_repos": []}
+{"issue": 7352, "author": "Renarde-dev", "optout_owners": ["renarde-dev"], "optout_repos": []}
+{"issue": 7353, "author": "babeuh", "optout_owners": ["babeuh"], "optout_repos": []}
+{"issue": 7354, "author": "t4ccer", "optout_owners": ["t4ccer"], "optout_repos": []}
+{"issue": 7355, "author": "0xMRTT", "optout_owners": ["0xmrtt"], "optout_repos": []}
+{"issue": 7356, "author": "0xMRTT", "optout_repos": [], "optout_owners": ["Gradienceteam"]}
+{"issue": 7357, "author": "halliwilljustin", "optout_owners": ["halliwilljustin"], "optout_repos": []}
+{"issue": 7358, "author": "ApurvaMisra", "optout_owners": ["ApurvaMisra"], "optout_repos": []}
+{"issue": 7359, "author": "gabrc52", "optout_repos": [], "optout_owners": ["gabrc52", "sipb"]}
+{"issue": 7360, "author": "limesdotpink", "optout_owners": ["limesdotpink", "gitlimes"], "optout_repos": []}
+{"issue": 7361, "author": "SigmaSquadron", "optout_owners": ["SigmaSquadron"], "optout_repos": []}
+{"issue": 7362, "author": "totherme", "optout_owners": ["totherme"], "optout_repos": []}
+{"issue": 7363, "author": "CreepNT", "optout_owners": ["CreepNT"], "optout_repos": []}
+{"issue": 7364, "author": "spanezz", "optout_owners": ["spanezz"], "optout_repos": []}
+{"issue": 7365, "author": "cjwatson", "optout_owners": ["cjwatson"], "optout_repos": []}
+{"issue": 7366, "author": "Ganneff", "optout_owners": ["Ganneff"], "optout_repos": []}
+{"issue": 7367, "author": "jamesatjaminit", "optout_owners": ["jamesatjaminit"], "optout_repos": []}
+{"issue": 7368, "author": "jamesatjaminit", "optout_owners": ["classchartsapi"], "optout_repos": []}
+{"issue": 7369, "author": "BingSoy", "optout_owners": ["bingsoy"], "optout_repos": []}
+{"issue": 7370, "author": "ajkavanagh", "optout_owners": ["ajkavanagh"], "optout_repos": []}
+{"issue": 7801, "author": "juju4", "optout_owners": ["juju4"], "optout_repos": []}
+{"issue": 7861, "author": "jdhou", "optout_owners": ["jdhou"], "optout_repos": []}
+{"issue": 8362, "author": "RibbonHeartU", "optout_owners": ["RibbonHeartU"], "optout_repos": []}
+{"issue": 8863, "author": "BillSousa", "optout_owners": ["BillSousa"], "optout_repos": []}
+{"issue": 10864, "author": "jinx2321", "optout_owners": ["jinx2321"], "optout_repos": []}
+{"issue": 12365, "author": "Christophe31", "optout_owners": ["Christophe31"], "optout_repos": []}
+{"issue": 12866, "author": "chiyakiha", "optout_owners": ["chiyakiha"], "optout_repos": []}
+{"issue": 12867, "author": "chiyakiha", "optout_owners": ["tabigi"], "optout_repos": []}
+{"issue": 12868, "author": "jimporter", "optout_owners": ["jimporter"], "optout_repos": []}
+{"issue": 12869, "author": "tacf", "optout_owners": ["Tacf"], "optout_repos": []}
+{"issue": 12870, "author": "scra-bit", "optout_owners": ["scra-bit"], "optout_repos": []}
+{"issue": 12871, "author": "Rydrako", "optout_owners": ["Rydrako"], "optout_repos": []}
+{"issue": 12872, "author": "NovaProd954", "optout_owners": ["NovaProd954"], "optout_repos": []}
+{"issue": 12873, "author": "PhoenixAlpha204", "optout_owners": ["phoenixalpha204"], "optout_repos": []}
+{"issue": 12874, "author": "szymonrw", "optout_owners": ["szymonrw"], "optout_repos": []}
+{"issue": 12875, "author": "markhobson", "optout_owners": ["acteng"], "optout_repos": []}
+{"issue": 12876, "author": "alexwlchan", "optout_owners": ["alexwlchan"], "optout_repos": []}
+{"issue": 12877, "author": "Phoemuex", "optout_owners": ["Phoemuex"], "optout_repos": []}
+{"issue": 12878, "author": "KathyHaem", "optout_owners": ["KathyHaem"], "optout_repos": []}
+{"issue": 12879, "author": "caglarkucuk", "optout_owners": ["caglarkucuk"], "optout_repos": []}
+{"issue": 12880, "author": "Ruesa18", "optout_owners": ["Ruesa18"], "optout_repos": []}
+{"issue": 12881, "author": "Ruesa18", "optout_owners": ["riesenacht"], "optout_repos": []}
+{"issue": 12882, "author": "sosey", "optout_owners": ["sosey"], "optout_repos": []}
+{"issue": 12883, "author": "tasken", "optout_owners": ["tasken"], "optout_repos": []}
+{"issue": 12884, "author": "guillaumealgis", "optout_owners": ["guillaumealgis"], "optout_repos": []}
+{"issue": 12887, "author": "mamg22", "optout_owners": ["mamg22"], "optout_repos": []}
+{"issue": 12888, "author": "omegazero2310", "optout_owners": ["omegazero2310"], "optout_repos": []}
+{"issue": 12889, "author": "j-browne", "optout_owners": ["j-browne"], "optout_repos": []}
+{"issue": 12890, "author": "BurningSulphur", "optout_repos": [], "optout_owners": ["BurningSulphur"]}
+{"issue": 12891, "author": "BurningSulphur", "optout_owners": ["BurningSulphur"], "optout_repos": []}
+{"issue": 12892, "author": "Titop54", "optout_owners": ["Catalyst-Studios"], "optout_repos": []}
+{"issue": 12893, "author": "bgmeulem", "optout_owners": ["bgmeulem"], "optout_repos": []}
+{"issue": 12894, "author": "stnava", "optout_owners": ["stnava"], "optout_repos": []}
+{"issue": 12895, "author": "stnava", "optout_owners": ["ANTsX"], "optout_repos": []}
+{"issue": 12896, "author": "stnava", "optout_owners": ["stnava"], "optout_repos": []}
+{"issue": 12897, "author": "wu-lee", "optout_owners": ["wu-lee"], "optout_repos": []}
+{"issue": 12898, "author": "ssalggnikool", "optout_owners": ["ssalggnikool"], "optout_repos": []}
+{"issue": 12899, "author": "expmode", "optout_owners": ["saurav1004"], "optout_repos": []}
+{"issue": 12900, "author": "Dam4323", "optout_owners": ["dam4323"], "optout_repos": []}
+{"issue": 12901, "author": "JitJuanC", "optout_owners": ["JitJuanC"], "optout_repos": []}
+{"issue": 12902, "author": "Dariensg", "optout_owners": ["Dariensg"], "optout_repos": []}
+{"issue": 12903, "author": "drt24", "optout_owners": ["drt24", "strathclyde-rse", "ucam-cl-dtg"], "optout_repos": []}
+{"issue": 12904, "author": "benbenlaw", "optout_owners": ["bbl-team"], "optout_repos": []}
+{"issue": 12905, "author": "benbenlaw", "optout_owners": ["benbenlaw"], "optout_repos": []}
+{"issue": 12906, "author": "voxelparrot", "optout_owners": ["voxelparrot"], "optout_repos": []}
